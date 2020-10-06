@@ -11,6 +11,7 @@ celery resources management) and Redis(Celery broker to maintain the celery queu
 * Following the Airflow release from [Python Package Index](https://pypi.python.org/pypi/apache-airflow)
 
 ## Build
+create a logs directory and database directory have data and logs sub directory inside that.
 
 Optionally install [Extra Airflow Packages](https://airflow.apache.org/docs/stable/installation.html#extra-package) and/or python dependencies at build time :
 
