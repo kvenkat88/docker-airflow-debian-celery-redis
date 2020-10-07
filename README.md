@@ -190,3 +190,13 @@ https://medium.com/@xnuinside/quick-tutorial-apache-airflow-with-3-celery-worker
 https://airflow.readthedocs.io/en/latest/production-deployment.html
 
 https://airflow.readthedocs.io/en/latest/howto/set-config.html#setting-configuration-options
+
+# Import References
+
+https://github.com/apache/airflow/blob/master/Dockerfile
+
+https://github.com/apache/airflow/blob/master/IMAGES.rst#production-images
+
+https://github.com/apache/airflow/issues/8605
+
+https://airflow.apache.org/docs/stable/configurations-ref.html
